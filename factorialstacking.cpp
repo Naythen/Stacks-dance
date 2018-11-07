@@ -1,4 +1,4 @@
-// Functia Factoriala (rezolvarea din clasa)
+//1. Functia Factoriala (rezolvarea din clasa)
 #include<iostream>
 using namespace std;
 class stack {
