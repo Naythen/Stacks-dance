@@ -1,3 +1,4 @@
+//2. Functia Manna Pnueli, rezolvata gresit
 #include<iostream>
 using namespace std;
 class stack
